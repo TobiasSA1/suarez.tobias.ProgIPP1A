@@ -1,0 +1,10 @@
+Al momento de entregar el parcial entrege un guardado anterior.
+Y me quedo que en el segundo punto el STRLEN va abajo del SCANF de frase y la mascarilla de CARACTER me quedo una %c en vez de %s
+
+ASI SERIA EL CODIGO CORRECTO :
+
+printf("Ingrese su frase: ");
+scanf ("%s", &frase);
+longi = strlen(frase);
+printf("Ingrese el caracter: ");
+scanf ("%s", &caracter);
