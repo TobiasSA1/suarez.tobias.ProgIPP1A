@@ -15,9 +15,9 @@ int main()
     char caracter;
     printf("Ingrese su frase: ");
     scanf ("%s", &frase);
-    printf("Ingrese el caracter");
-    scanf("%c",caracter);
     longi = strlen(frase);
+    printf("Ingrese el caracter");
+    scanf("%s",caracter);
     contarCaracteres(longi,caracter,frase);*/
     return 0;
 }
