@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603110638 source:c:\users\toby\desktop\repositorio parcial prog\suarez.tobias.progipp1a\parcialprog1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
